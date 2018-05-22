@@ -1,0 +1,4 @@
+/*globals $*/
+$(document).ready(function () {
+
+});
